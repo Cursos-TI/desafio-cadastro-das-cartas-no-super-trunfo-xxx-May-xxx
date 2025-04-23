@@ -1,5 +1,6 @@
 # include <stdio.h>
 int main () {
+  
   char Estado;
   char Codigo[3];
   char Cidade[15];
